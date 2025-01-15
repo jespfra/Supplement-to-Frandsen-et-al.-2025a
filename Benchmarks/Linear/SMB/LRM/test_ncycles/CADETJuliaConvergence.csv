@@ -1,0 +1,13 @@
+Setting,nCells,polyDeg,nCycles,rtime
+Setting 1,2,4,2,0.6205461
+Setting 1,2,4,5,1.4571314
+Setting 1,2,4,10,2.8218599
+Setting 1,2,4,15,4.8975476
+Setting 2,4,5,2,1.4587835
+Setting 2,4,5,5,3.5023818
+Setting 2,4,5,10,6.9037559
+Setting 2,4,5,15,10.1981462
+Setting 3,8,6,2,4.0103787
+Setting 3,8,6,5,9.4599583
+Setting 3,8,6,10,19.159816
+Setting 3,8,6,15,27.4512591
